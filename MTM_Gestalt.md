@@ -21,7 +21,7 @@
         
      Modifico el nombre del dispositivo -> tty.usbserial-FTWX7E2
      
-  -Ejecuto 
+  - Ejecuto 
   
         python single_node.py   
        
@@ -57,7 +57,7 @@
         
      Modifico el nombre del dispositivo -> ttyS5
      
-  -Ejecuto 
+  - Ejecuto 
   
         python single_node.py   
        
